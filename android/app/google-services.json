@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "656689273486",
+    "project_id": "dizzyapp-4fc56",
+    "storage_bucket": "dizzyapp-4fc56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656689273486:android:054d2cd70a240bdf39c7df",
+        "android_client_info": {
+          "package_name": "co.dizzy.aliados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656689273486-co5b8iio117hno615uti6vkb7vg1m40d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.dizzy.aliados",
+            "certificate_hash": "268392bba240ba621584ffb6dbb6482cbaf329b4"
+          }
+        },
+        {
+          "client_id": "656689273486-j38053daidrgrhinjanortu5ihssuit1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayZ8DhE6JJy160YE2Pab5_ATvoWwwaaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656689273486-j38053daidrgrhinjanortu5ihssuit1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656689273486-hgd0vln7b8qbbkcuci9l3mvsodnm7gtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dizzyapp.co"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656689273486:android:0ba6785cbf4bbfc339c7df",
+        "android_client_info": {
+          "package_name": "co.dizzyapp.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656689273486-8snvlgrfsjaqqtpavkvm7r57d10dlbt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.dizzyapp.rider",
+            "certificate_hash": "268392bba240ba621584ffb6dbb6482cbaf329b4"
+          }
+        },
+        {
+          "client_id": "656689273486-j38053daidrgrhinjanortu5ihssuit1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayZ8DhE6JJy160YE2Pab5_ATvoWwwaaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656689273486-j38053daidrgrhinjanortu5ihssuit1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656689273486-hgd0vln7b8qbbkcuci9l3mvsodnm7gtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dizzyapp.co"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656689273486:android:327b2733fa74852239c7df",
+        "android_client_info": {
+          "package_name": "com.dizzyapp.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656689273486-kp507t3sievhri5regkio06t12kem86a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dizzyapp.co",
+            "certificate_hash": "c06d2b39154453621b7cbaa8186ed39ad01940ac"
+          }
+        },
+        {
+          "client_id": "656689273486-j38053daidrgrhinjanortu5ihssuit1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayZ8DhE6JJy160YE2Pab5_ATvoWwwaaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656689273486-j38053daidrgrhinjanortu5ihssuit1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656689273486-hgd0vln7b8qbbkcuci9l3mvsodnm7gtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dizzyapp.co"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

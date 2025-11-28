@@ -1,0 +1,38 @@
+# Flutter / Dart / Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/**/Flutter/ephemeral/
+ios/**/DerivedData/
+ios/build/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Outputs grandes
+*.ipa
+*.apk
+*.aab
+*.dSYM
+*.log
+
+# Otros
+.melos_tool/
